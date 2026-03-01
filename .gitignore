@@ -1,0 +1,5 @@
+__MACOSX/
+*.zip
+*.csv
+pollen_data.json
+.DS_Store
