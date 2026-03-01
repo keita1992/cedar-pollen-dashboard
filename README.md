@@ -1,5 +1,7 @@
 # 🌲 東京都スギ花粉ダッシュボード
 
+🔗 **ダッシュボード**: [https://keita1992.github.io/cedar-pollen-dashboard/](https://keita1992.github.io/cedar-pollen-dashboard/)
+
 東京都の12観測地点におけるスギ花粉飛散データを可視化するダッシュボードです。
 
 ## 掲載データ
